@@ -18,8 +18,8 @@ Transtalks offers the following features:
 
 6. **Named Entity Recognition:** Transtalks incorporates named entity recognition (NER) capabilities to identify and classify named entities like people, organizations, locations, and more. This feature can help in understanding the entities mentioned in the TED Talks.
 
-##License
+## License
 This repository is licensed under the MIT License.
 
-##Acknowledgement
+## Acknowledgement
 We gratefully acknowledge TED Talks for sharing their insightful content, the OpenAI community for NLP advancements, and contributors for making Transtalks possible. Our project adheres to copyright compliance, using open-source data solely for educational and research purposes. No copyright infringement is intended.
